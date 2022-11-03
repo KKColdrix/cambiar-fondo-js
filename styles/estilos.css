@@ -1,0 +1,23 @@
+html {
+  font-family: system-ui, "Segoe UI", Ubuntu, "Open Sans", "Helvetica Neue", sans-serif !important;
+}
+
+body {
+  background-color: gray;
+}
+
+button {
+  border-radius: 0%;
+  width: 200px;
+  height: 100px;
+  margin-top: 20%;
+  margin-left: 40%;
+}
+
+button:hover {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=estilos.css.map */
